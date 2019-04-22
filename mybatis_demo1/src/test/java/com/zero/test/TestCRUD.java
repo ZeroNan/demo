@@ -59,6 +59,9 @@ public class TestCRUD {
         for (User user : users){
             System.out.println(user);
         }
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
 
     }
 
